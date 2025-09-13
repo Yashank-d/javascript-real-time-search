@@ -2,7 +2,7 @@
 
 This project is a lightweight, client-side application that demonstrates how to implement a real-time search filter. As a user types into the search bar, the list of items is dynamically filtered to show only those that match the search query. It's built with fundamental web technologies and focuses on efficient DOM manipulation.
 
-### ✨ [Live Demo]([https://your-live-demo-link.com](https://yashank-d.github.io/javascript-real-time-search/))
+### ✨ [Live Demo]([https://yashank-d.github.io/javascript-real-time-search/])
 
 ---
 
