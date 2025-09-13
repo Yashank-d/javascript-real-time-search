@@ -12,7 +12,6 @@ This project is a lightweight, client-side application that demonstrates how to 
 ### 🚀 Features
 
 -   **Instant Search:** Filters the list in real-time with every keystroke.
--   **Case-Insensitive:** Matches results regardless of letter casing.
 -   **Responsive Design:** Clean and functional layout on all devices.
 -   **Vanilla Stack:** Built purely with HTML, CSS, and JavaScript—no frameworks or libraries.
 
@@ -23,20 +22,6 @@ This project is a lightweight, client-side application that demonstrates how to 
 -   **HTML5:** For the structure and content.
 -   **CSS3:** For custom styling and responsive layout.
 -   **JavaScript (ES6+):** For the core filtering logic, event handling, and DOM manipulation.
-
----
-
-### ⚙️ How to Run Locally
-
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3.  Open the `index.html` file in your favorite web browser.
 
 ---
 
