@@ -88,7 +88,7 @@ let inp = document.querySelector(".inp");
 
 inp.addEventListener("input", function () {
   let newUsers = users.filter((user) => {
-    return user.name.startsWith(inp.value);
+    return user.name.toLowerCase().startsWith(inp.value.toLowerCase());
   });
   if (newUsers.length === 0) {
     document.querySelector(".cards").innerHTML =
